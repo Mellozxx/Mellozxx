@@ -33,6 +33,4 @@ Aqui você encontrará alguns dos projetos que estou desenvolvendo durante minha
 - 💼 LinkedIn: [Guilherme Medeiros](https://www.linkedin.com/in/guilherme-medeiros-de-carvalho-749855332/)
 - 🐙 GitHub: [Mellozxx](https://www.linkedin.com/in/guilherme-medeiros-de-carvalho-749855332/)
 
----
 
-⭐ Obrigado por visitar meu perfil!
