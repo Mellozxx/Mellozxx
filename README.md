@@ -14,13 +14,13 @@ Tenho interesse em desenvolvimento de software e estou constantemente estudando 
 
 Atualmente estou estudando e desenvolvendo projetos com:
 
-- ☕ Java
-- 🌐 HTML
-- 🎨 CSS
-- 🐍 Python
-- ⚙️ C
-- 🔧 Git
-- 🐙 GitHub
+-  Java
+-  HTML
+-  CSS
+-  Python
+-  C
+-  Git
+-  GitHub
 
 ## 📂 Projetos
 
