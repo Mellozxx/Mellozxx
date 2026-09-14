@@ -22,14 +22,6 @@ Atualmente estou estudando e desenvolvendo projetos com:
 - 🔧 Git
 - 🐙 GitHub
 
-## 📚 Atualmente estudando
-
-- Lógica de programação
-- Estruturas de dados
-- Desenvolvimento de aplicações
-- Git e GitHub
-- Programação em Java e Python
-
 ## 📂 Projetos
 
 Aqui você encontrará alguns dos projetos que estou desenvolvendo durante minha jornada acadêmica e de aprendizado.
@@ -38,8 +30,8 @@ Aqui você encontrará alguns dos projetos que estou desenvolvendo durante minha
 
 ## 🔗 Onde me encontrar
 
-- 💼 LinkedIn: [https://www.linkedin.com/in/guilherme-medeiros-de-carvalho-749855332/](https://www.linkedin.com/)
-- 🐙 GitHub: [https://github.com/Mellozxx](https://github.com/)
+- 💼 LinkedIn: [Guilherme Medeiros](https://www.linkedin.com/in/guilherme-medeiros-de-carvalho-749855332/)
+- 🐙 GitHub: [Mellozxx](https://www.linkedin.com/in/guilherme-medeiros-de-carvalho-749855332/)
 
 ---
 
