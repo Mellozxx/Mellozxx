@@ -1,12 +1,46 @@
-#  Olá, eu sou Guilherme Medeiros 👋
+# Olá, eu sou Guilherme Medeiros! 👋
 
-## Sobre mim
-Sou um estudande do curso de Ciências da Computação no segundo periodo.
-Estou em busca de oportunidades de estágio onde eu possa contribuir de forma ativa, aprender com profissionais experientes e continuar me desenvolvendo como profissional de tecnologia.
+🎓 Estudante de Ciência da Computação | 💻 Desenvolvedor em formação
 
-## Tecnologias
-Tecnologias em estudo:
-Java | HTML | CSS | Python | C | Git | GitHub 
+## 🚀 Sobre mim
 
+Sou estudante de **Ciência da Computação**, atualmente no **2º período**.
 
-## 🔗 Links
+Estou em busca de uma oportunidade de **estágio na área de tecnologia**, onde eu possa colocar meus conhecimentos em prática, aprender com profissionais experientes e continuar desenvolvendo minhas habilidades técnicas e profissionais.
+
+Tenho interesse em desenvolvimento de software e estou constantemente estudando e criando projetos para evoluir como desenvolvedor.
+
+## 💻 Tecnologias
+
+Atualmente estou estudando e desenvolvendo projetos com:
+
+- ☕ Java
+- 🌐 HTML
+- 🎨 CSS
+- 🐍 Python
+- ⚙️ C
+- 🔧 Git
+- 🐙 GitHub
+
+## 📚 Atualmente estudando
+
+- Lógica de programação
+- Estruturas de dados
+- Desenvolvimento de aplicações
+- Git e GitHub
+- Programação em Java e Python
+
+## 📂 Projetos
+
+Aqui você encontrará alguns dos projetos que estou desenvolvendo durante minha jornada acadêmica e de aprendizado.
+
+> Em breve, novos projetos serão adicionados! 🚀
+
+## 🔗 Onde me encontrar
+
+- 💼 LinkedIn: [https://www.linkedin.com/in/guilherme-medeiros-de-carvalho-749855332/](https://www.linkedin.com/)
+- 🐙 GitHub: [https://github.com/Mellozxx](https://github.com/)
+
+---
+
+⭐ Obrigado por visitar meu perfil!
