@@ -26,8 +26,6 @@ Atualmente estou estudando e desenvolvendo projetos com:
 
 Aqui você encontrará alguns dos projetos que estou desenvolvendo durante minha jornada acadêmica e de aprendizado.
 
-> Em breve, novos projetos serão adicionados! 🚀
-
 ## 🔗 Onde me encontrar
 
 - 💼 LinkedIn: [Guilherme Medeiros](https://www.linkedin.com/in/guilherme-medeiros-de-carvalho-749855332/)
